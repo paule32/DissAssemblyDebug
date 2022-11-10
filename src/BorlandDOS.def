@@ -1,0 +1,5 @@
+LIBRARY "BORLANDDOS.DLL"
+EXPORTS
+BorlandDOS_Init@0	; Init (void);
+BorlandDOS_Run@0	; Run  (void);
+BorlandDOS_Done@0	; Done (void);
